@@ -24,6 +24,15 @@ Somos un equipo de estudiantes de Ingeniería en Sistemas de Información (UTN F
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+## 🏆 Competencias
+
+| Competencia | Regional Resistencia | Nacional | Publicación |
+|---|---|---|---|
+| TAP 2025 | 6.º de 13 | 95.º de 184 | [Ver en LinkedIn](https://www.linkedin.com/posts/gonzaorban_icpc-argentina-2025-icpc-international-ugcPost-7365448214361047042-h-A3/) |
+| TAP 2026 | 5.º de 21 | 72.º de 200 | [Ver en LinkedIn](https://www.linkedin.com/posts/gonzaorban_icpc-tap-2026-por-segundo-a%C3%B1o-consecutivo-ugcPost-7500567114962079744-96RV/) |
+| HackLab 2025 | 9.º de 13 | 28.º de 74 | [Ver en LinkedIn](https://www.linkedin.com/posts/gonzaorban_hacklab-2025-competencia-nacional-de-ugcPost-7382128482476183552-OCux/) |
+| HackLab 2026 | 🥈 2.º de 22 | 5.º de 115 | [Ver en LinkedIn](https://www.linkedin.com/posts/gastonloveras_hacklab-2026-segundo-a%C3%B1o-participando-share-7515868295930085376-hXFw/) |
+
 ## 👥 Integrantes
 
 | Integrante | GitHub | LinkedIn |
