@@ -17,11 +17,11 @@ Somos un equipo de estudiantes de Ingeniería en Sistemas de Información (UTN F
 |---|---|---|
 | Julieta Casano | [julietacasano](https://github.com/julietacasano) | [julietacasano](https://www.linkedin.com/in/julietacasano/) |
 | Tomás Ariel Duarte | [TomiDuarte](https://github.com/TomiDuarte) | [tomas-duarte](https://www.linkedin.com/in/tomas-duarte-27a133237/) |
-| Josefina Gorro | [josefinagorro](https://github.com/josefinagorro) | [josefinagorro](https://www.linkedin.com/in/josefinagorro/) |
+| Josefina Gorrochategui | [josefinagorro](https://github.com/josefinagorro) | [josefinagorro](https://www.linkedin.com/in/josefinagorro/) |
 | Paula Kozak Riehme | [Paukozak](https://github.com/Paukozak) | [paula-kozak](https://www.linkedin.com/in/paula-kozak/) |
 | Matias Ezequiel Lima | [MatiasELima](https://github.com/MatiasELima) | [matias-lima](https://www.linkedin.com/in/matias-lima-266108375/) |
 | Gaston Sebastian Lovera | [Gastis00](https://github.com/Gastis00) | [gastonloveras](https://www.linkedin.com/in/gastonloveras/) |
-| Gonzalo Orban | [gonzaorban](https://github.com/gonzaorban) | [gonzaorban](https://www.linkedin.com/in/gonzaorban/) |
+| Gonzalo Tomás Orban | [gonzaorban](https://github.com/gonzaorban) | [gonzaorban](https://www.linkedin.com/in/gonzaorban/) |
 | Drazen Pavicich | [DrazenPavicich](https://github.com/DrazenPavicich) | [drazen-pavicich](https://www.linkedin.com/in/drazen-pavicich-8745991a6/) |
 | Juan Ignacio Rodriguez Leiva | [juanileiva16](https://github.com/juanileiva16) | [juan-ignacio-rodriguez-leiva](https://www.linkedin.com/in/juan-ignacio-rodr%C3%ADguez-leiva-75009b38b/) |
 | Matías Rodríguez Scornik | [matiasrscornik](https://github.com/matiasrscornik) | [matias-rodriguez-scornik](https://www.linkedin.com/in/matias-rodriguez-scornik-/) |
