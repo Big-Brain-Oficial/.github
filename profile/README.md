@@ -1,6 +1,6 @@
 # Big Brain🧠
 
-Somos un equipo de estudiantes de Ingeniería en Sistemas de Información (UTN FRRe). Esta organización centraliza nuestros trabajos prácticos universitarios y proyectos independientes.
+Somos un equipo de estudiantes de Ingeniería en Sistemas de Información (UTN FRRe). Esta organización centraliza las competencias que participamos, nuestros trabajos prácticos universitarios y proyectos independientes.
 
 ## 🏆 Competencias
 
